@@ -4,22 +4,6 @@
 
 A complete movies application that integrates with IMDb APIs, featuring a user dashboard and an admin dashboard for enhanced management and user interaction.
 
-## Frontend (Angular)
-
-To run the frontend of the Movie Management System, follow these steps:
-
-1. **Clone the Angular Repository**:
-   ```bash
-   git clone https://github.com/mostafaFat7i/Angular-Movie-App
-   cd Angular-Movie-App
-2. **Install Dependencies**: Make sure you have Node.js and npm installed. Then, run the following command to install the required packages:
-   ```bash
-   npm install
-3. **Run the Angular Application**: Start the Angular development server:
-   ```bash
-   ng serve
-The application will be available at http://localhost:4200.
-
 ## Features
 
 - **User Registration and Login**: Users can register and log in to access their dashboards.
@@ -114,6 +98,22 @@ The application will be available at http://localhost:4200.
 **Frontend**:
 - Node.js
 - Angular 16+ CLI
+
+## Frontend (Angular)
+
+To run the frontend of the Movie Management System, follow these steps:
+
+1. **Clone the Angular Repository**:
+   ```bash
+   git clone https://github.com/mostafaFat7i/Angular-Movie-App
+   cd Angular-Movie-App
+2. **Install Dependencies**: Make sure you have Node.js and npm installed. Then, run the following command to install the required packages:
+   ```bash
+   npm install
+3. **Run the Angular Application**: Start the Angular development server:
+   ```bash
+   ng serve
+The application will be available at http://localhost:4200.
 
 ### Backend Installation
 1. Clone the repository:
