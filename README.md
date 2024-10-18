@@ -113,7 +113,7 @@ To run the frontend of the Movie Management System, follow these steps:
 3. **Run the Angular Application**: Start the Angular development server:
    ```bash
    ng serve
-The application will be available at http://localhost:4200.
+The frontend application will be available at http://localhost:4200.
 
 ### Backend Installation
 1. Clone the repository:
@@ -126,6 +126,8 @@ The application will be available at http://localhost:4200.
 3. Run the application:
    ```bash
    mvn spring-boot:run
+
+The backend application will be available at http://localhost:8090.
 
 ### Configuration
 - Make sure to set up the database configurations in the application.properties file according to your environment. You will find two versions of the application.properties file: application-dev.properties for the development profile and application-prod.properties for the production profile. You can swap between them by modifying the application.properties file.
