@@ -84,8 +84,8 @@ A complete movies application that integrates with IMDb APIs, featuring a user d
 
 ## Technologies Used
 
-- Spring Boot
-- Angular
+- Spring Boot 3.x.x
+- Angular 16+
 
 ## Getting Started
 
