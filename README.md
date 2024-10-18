@@ -101,7 +101,7 @@ A complete movies application that integrates with IMDb APIs, featuring a user d
 
 ## Frontend (Angular)
 
-To run the frontend of the Movie Management System, follow these steps:
+To run the frontend of the Movies Application, follow these steps:
 
 1. **Clone the Angular Repository**:
    ```bash
